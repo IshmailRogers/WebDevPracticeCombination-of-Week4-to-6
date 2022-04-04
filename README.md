@@ -1,1 +1,1 @@
-# WebDevPracticeCombination-of-all-Weeks
+# WebDevPracticeCombination-of-Week1-to-5
